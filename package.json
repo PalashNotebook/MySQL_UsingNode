@@ -1,0 +1,25 @@
+{
+  "name": "mysql_usingnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalashNotebook/MySQL_UsingNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalashNotebook/MySQL_UsingNode/issues"
+  },
+  "homepage": "https://github.com/PalashNotebook/MySQL_UsingNode#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
